@@ -44,7 +44,7 @@ header {
     /* block-level */
     grid-template-columns: 1fr 2fr 1fr; 
     /* Three columns with the middle one twice as wide as the others */
-    grid-template-rows: 100px 500px; 
+    grid-template-rows: 150px 500px; 
 }
 .image-gallery img{
    height: 100%;
